@@ -1,5 +1,5 @@
 /**
- * Java Regular Expression
+ * User need to enter valid first or last name
  */
 package com.assignment19.bl;
 import java.util.*;
