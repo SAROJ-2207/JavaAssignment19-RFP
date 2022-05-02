@@ -1,5 +1,10 @@
-package com.assignment19.bl;
-
+/**
+ * User need to fallow pre-defined password rules
+ * Rule 1:- Minimum 8 characters
+ * Rule 2:- Should have at least 1 upper case
+ * Rule 3:- Should have at least 1 numeric in the password
+ * Rule 4:- Has exactly 1 special character
+ */
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
